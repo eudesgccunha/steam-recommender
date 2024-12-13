@@ -9,3 +9,15 @@ O objetivo é que o usuário informe um nome de jogo e receba como retorno os 10
 $$r_{\mathbf{ui}} = \frac{hours\ \mathbf{u}\ played\ in\ game\ \mathbf{i}}{total\ hours\ \mathbf{u}\ played}$$
 
 ou seja, total de que o usuário jogou o game em relaçaõ ao total de horas jogados em todos os jogos.
+
+
+
+--- 
+# Virtual env conda
+
+
+```bash
+conda create -n clustering python==3.12.4
+conda activate clustering
+pip install -r requirements.txt
+```
