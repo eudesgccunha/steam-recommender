@@ -10,11 +10,13 @@ $$r_{\mathbf{ui}} = \frac{hours\ \mathbf{u}\ played\ in\ game\ \mathbf{i}}{total
 
 ou seja, total de que o usuário jogou o game em relação ao total de horas jogadas em todos os jogos.
 
-Após a etapa de Data Understand foi criada uma pipeline para gerear um dataframe com as avaliações. 
+## Recommender 
+Após a etapa de Data Understand foi criada uma pipeline para gerear um dataframe com as avaliações.
 Em seguida, as análises foram escritas em arquivos python (train.py e utils.py) para gerar o modelo.
 Após gerado, o modelo foi servido com FastAPI contando com 4 endpoints.
 
 --- 
+
 ### Virtual env conda
 
 
