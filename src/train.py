@@ -3,7 +3,7 @@ import numpy as np
 from utils import get_ratings, get_steam_data, ItemBasedRecommender
 
 # get data
-df = get_steam_data('../data/steam_200k.csv')
+df = get_steam_data('data/steam_200k.csv')
 
 # get implicit ratings
 df_ratings = get_ratings(df)
