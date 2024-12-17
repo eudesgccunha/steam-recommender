@@ -31,3 +31,4 @@ pip install -r requirements.txt
 
 ### Acessando o modelo pela interface do FastAPI
 Acessar pela porta 8000, URL http://127.0.0.1:8000 ou acessando os doc em http://127.0.0.1:8000/docs.
+Atualização no Readme
