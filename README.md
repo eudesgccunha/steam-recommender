@@ -18,7 +18,7 @@ Após gerado, o modelo foi servido com FastAPI contando com 4 endpoints.
 
 --- 
 
-### Virtual env conda
+### Virtual Enviroment Conda
 
 
 ```bash
