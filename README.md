@@ -1,6 +1,6 @@
 # Steam Recommender
 
-Construção de um modelo de recomendação de filtro colaborativo baseado em itens do [dataset](https://www.kaggle.com/datasets/tamber/steam-video-games) disponível da Steam, seguido da construção de uma API para interagir com o modelo.
+Construção de um modelo de recomendação de filtro colaborativo baseado em itens do dataset disponível da [Steam](https://www.kaggle.com/datasets/tamber/steam-video-games), seguido da construção de uma API para interagir com o modelo.
 
 O objetivo é que o usuário informe um nome de jogo e receba como retorno os 10 jogos mais similares.
 
